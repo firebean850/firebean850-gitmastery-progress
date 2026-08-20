@@ -131,23 +131,5 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1787249562.289939,
-    "completed_at": 1787249567.426863,
-    "comments": [
-      "The remote 'origin' is missing!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1787249650.243495,
-    "completed_at": 1787249655.171072,
-    "comments": [
-      "The upstream remote does not point to the original repository!"
-    ],
-    "status": "Incomplete"
   }
 ]
